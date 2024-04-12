@@ -10,7 +10,7 @@
 # https://realpython.com/read-write-files-python/
 ################################
 # SOLUTION
-# Your Solution Score: 46547
+# Your Solution Score: 46548
 # Put your number here: 0
 ################################
 def read_input():
